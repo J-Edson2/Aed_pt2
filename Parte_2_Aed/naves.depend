@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698000482 source:e:\codeblocks\naves\main.c
+	<stdio.h>
+	"naves.h"
+	<locale.h>
+
+1697999251 e:\codeblocks\naves\naves.h
+
+1697999338 source:e:\codeblocks\naves\naves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naves.h"
+
